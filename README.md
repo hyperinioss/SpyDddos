@@ -1,5 +1,7 @@
 # SpyDddos
 
+Open Kali Linux terminal or Termux terminal
+ 
 Copyright by Hyperinios and Spy...
 
 apt install python3
